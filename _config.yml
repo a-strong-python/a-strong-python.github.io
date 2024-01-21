@@ -81,38 +81,13 @@ author:
   avatar           : "个人照片.jpg"
   bio              : "Coding is a valuable thing！"
   location         : "湖北荆州"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "1784036791@qq.com"
-  researchgate     :  # 例如: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "a-strong-python"
+  gitee            : "a-strong-python"
   csdn             : "weixin_46227276"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : #"replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  aistudio         : "1870692"
+  openi            : "xiaoxiong"
+
 
 # 读取文件
 include:
