@@ -10,9 +10,9 @@ title                    : "肖雄 / 个人主页"
 title_separator          : "-"
 name                     : &name "肖雄"
 description              : &description "personal description"
-url                      : https://xiaoxiong.github.io # 网站的基本主机名和协议，例如 "https://mmistakes.github.io"
+url                      : https://a-strong-python.github.io # 网站的基本主机名和协议，例如 "https://mmistakes.github.io"
 baseurl                  : "" # 网站的子路径，例如 "/blog"
-repository               : "a-strong-python/xiaoxiong.github.io"
+repository               : "a-strong-python/a-strong-python.github.io"
 teaser                   :  # 首页缩略图，放置在 /images/ 目录下，例如 "500x300.png"
 breadcrumbs              : false # true, false (默认)
 words_per_minute         : 160
