@@ -9,51 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 本科  2020.9-2024.6  长江大学  物联网工程
+* 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+竞赛和项目经历
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023年3月大学生创新创业大赛—智能垃圾桶项目           省优
+* 2023年7月全国大学生智能汽车竞赛—百度完全模型组赛道    华南赛区三等奖
+* 2023年8月全国大学生智能汽车竞赛—讯飞智慧农业组赛道    全国三等奖
+* 2023年9月睿抗机器人开发者大赛—统信操作系统赛道        全国三等奖
+* 2023年12月全国大学生工程训练和创新能力大赛            全国三等奖
 
-Publications
+
+活动经历
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* 2022年5月成为百度飞桨领航团团长，之后在校组织多场AI学习活动，参与人数达100余人 
+* 2022年12月成为openI启智高校旅长，之后在校组织多场AI开源打榜活动，帮助多名同学上榜并获得丰厚奖金 
+* 2023年4月成为百度飞桨开发者技术专家（PPDE），8月受邀到北京参加WAVE SUMMIT深度学习开发者大会2023
+* 2023年12月成为openI启智社区资深体验官
+
+
+
+技能特长
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 熟悉paddle框架，擅长计算机视觉相关任务及其推理部署，如图像分类、目标检测、图像分割等，在飞桨多个竞赛上取得前十成绩
+* 熟悉ros slam建图及teb导航避障算法，做过ros小车的自动导航和图像识别任务
+* 熟悉linux常见的运维操作，在统信UOS公司举办的操作系统运维比赛中取得国三的成绩
+* 了解bert，gpt，llama等大模型技术原理，做过相应的微调任务
