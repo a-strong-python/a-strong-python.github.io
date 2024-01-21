@@ -6,7 +6,7 @@
 
 # 网站设置
 locale                   : "en-US"
-title                    : "肖雄 / 个人主页"
+title                    : "个人主页"
 title_separator          : "-"
 name                     : &name "肖雄"
 description              : &description "personal description"
