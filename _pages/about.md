@@ -22,7 +22,7 @@ redirect_from:
 
 # 竞赛和项目经历
 
-- [2023年3月大学生创新创业大赛—智能垃圾桶项目 省优](a-strong-python.github.io/images/大创.png)
+- [2023年3月大学生创新创业大赛—智能垃圾桶项目 省优](https://github.com/a-strong-python/a-strong-python.github.io/tree/master/images/大创.png)
 
 - [2023年7月全国大学生智能汽车竞赛—百度完全模型组赛道 华南赛区三等奖]()
 
