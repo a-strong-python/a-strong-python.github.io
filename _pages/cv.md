@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 教育经历
 ======
 * 本科  2020.9-2024.6  长江大学  物联网工程
