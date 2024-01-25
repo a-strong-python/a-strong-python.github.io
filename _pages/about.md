@@ -40,7 +40,7 @@ redirect_from:
 - [2022年12月成为openI启智高校旅长](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
 - [2023年4月成为百度飞桨开发者技术专家（PPDE）](https://s2.loli.net/2024/01/21/VLTDRZYXkfFw7SK.jpg)
 - 2023年9月成为datawhale核心成员
-- [2023年12月成为openI启智社区资深体验官](https://openi.org.cn/index.php?m=content&c=index&a=show&catid=221&id=73)
+- [2023年12月成为openI启智社区资深体验官](https://openi.org.cn/index.php?m=content&c=index&a=lists&catid=220)
 
 
 
