@@ -56,4 +56,7 @@ redirect_from:
 
 - ### [【AI夏令营】如何使用飞桨套件来实践CV全流程](https://www.bilibili.com/video/BV1ku411G7M9/?share_source=copy_web&vd_source=493ab3e4a75cb0cad442663e7fbe178b)
 
+- ### [【如何使用天数GPU国产算力跑ResNet50，非常丝滑，还支持近200种模型！】](https://www.bilibili.com/video/BV1pm411977G/?share_source=copy_web&vd_source=493ab3e4a75cb0cad442663e7fbe178b)
+
+- ### [【如何使用燧原GCU国产算力基于Paddle框架调试Bert模型】](https://www.bilibili.com/video/BV1yv421k7im/?share_source=copy_web&vd_source=493ab3e4a75cb0cad442663e7fbe178b)
 
